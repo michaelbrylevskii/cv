@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a Senior Backend Developer with 6+ years of experience in building server-side solutions using Java/Kotlin. My expertise lies in creating high-load microservice architectures with Spring Boot, Kafka, and PostgreSQL. I take an active role in architectural decision-making and establishing CI/CD pipelines.
+I am a Senior Backend Developer with 7+ years of experience in building server-side solutions using Java/Kotlin. My expertise lies in creating high-load microservice architectures with Spring Boot, Kafka, and PostgreSQL. I take an active role in architectural decision-making and establishing CI/CD pipelines.
 
 I adapt quickly to changing requirements, show initiative, and take responsibility for delivering results by leveraging critical thinking to find optimal solutions. I mentor colleagues, value teamwork, and foster a positive environment to ensure collective success. I enjoy tackling challenges and am not afraid of difficult tasks.
 
